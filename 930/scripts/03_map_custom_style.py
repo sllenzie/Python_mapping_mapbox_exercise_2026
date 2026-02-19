@@ -37,7 +37,7 @@ import os               # For file path operations
 # --- A) YOUR MAPBOX ACCESS TOKEN ---
 # Same token you used in Script 2 (starts with "pk.")
 # Find it at: https://account.mapbox.com/access-tokens/
-MAPBOX_TOKEN = "PASTE_YOUR_MAPBOX_TOKEN_HERE"
+MAPBOX_TOKEN = "pk.eyJ1Ijoic2xsZW56aWUiLCJhIjoiY21sdG13MjB3MDF5dTNlcHBqZGt0NGVvdSJ9.-DaMTxcKxtsIZSl9_S7wNg"
 
 # --- B) YOUR MAPBOX STYLE URL ---
 # This is the URL of the custom style you created in Mapbox Studio.
@@ -49,7 +49,7 @@ MAPBOX_TOKEN = "PASTE_YOUR_MAPBOX_TOKEN_HERE"
 #   5. Your Style URL looks like: mapbox://styles/yourusername/yourstyleid
 #      (e.g., mapbox://styles/johndoe1/clxabcdef123456)
 #   6. Copy that URL and paste it below
-MAPBOX_STYLE_URL = "mapbox://styles/YOUR_USERNAME/YOUR_STYLE_ID"
+MAPBOX_STYLE_URL = "mapbox://styles/sllenzie/cmltnvsvm008i01qpgph299wh"
 
 # --- Validate that tokens were entered ---
 if MAPBOX_TOKEN == "PASTE_YOUR_MAPBOX_TOKEN_HERE":
